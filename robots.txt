@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
 Disallow: /en/
-
-Sitemap: http://apt-forge.com/sitemap.xml
